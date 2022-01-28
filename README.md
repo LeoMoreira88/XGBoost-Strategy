@@ -1,2 +1,2 @@
 # XGBoost-Strategy
-Using XGboost  algorithm in IBOV and USD/BRL (Brazilian stock market).
+Using XGboost  algorithm in IBOV(Brazilian stock market index) and USD/BRL.
